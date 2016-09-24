@@ -7,7 +7,7 @@ Using MTA turnstile Turnstile Data from http://web.mta.info/developers/turnstile
 
 The process was overall rudimentry and involved scraping the data, cleaning it, and looking for temporal and geospatial patterns. Further analysis would require pulling in more demographic data for areas surrounding subway stops as well as pulling in conversion rates from our theoretical street team expeditions.
 
-The .ipynp file contains the full data processing, while the _ contains our summary presentation.
+The .ipynp file contains the full data processing, while the BensonProjectSlides.pdf contains our summary presentation.
 
 
 
